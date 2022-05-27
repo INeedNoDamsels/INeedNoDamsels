@@ -10,8 +10,10 @@ En la _Universidad de Río Negro_ y el _Instituto Superior de Informática Viras
 * **C++**
 * **Python**
 * **MySQL**
+
 ... y planeo seguír ampliando la lista :snail:
 
 ### :question:
 Disfruto de salir cada tanto a la naturaleza, acampar o simplemente caminar por allí.
+
 Tambien me gusta tocar la guitarra, cantar y todas esas cosas de hippie de los 80' (excepto morir de sobredosis o unirme a Rajneeshpuram).
