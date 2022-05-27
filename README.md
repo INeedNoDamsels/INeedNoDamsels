@@ -1,16 +1,17 @@
-### Hi there 👋
+# ¡Hola!
+### Soy Manu Bernabei :saxophone::bug:
+##### :books: Estudio las carreras de Ingeniería en Computación y Analista de Sistemas
+En la _Universidad de Río Negro_ y el _Instituto Superior de Informática Virasoro_, respectivamente
 
-<!--
-**INeedNoDamsels/INeedNoDamsels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Badge](https://bit.ly/icom-badge)
 
-Here are some ideas to get you started:
+##### :space_invader: Tengo conocimientos sobre:
+* **C**
+* **C++**
+* **Python**
+* **MySQL**
+... y planeo seguír ampliando la lista :snail:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### :question:
+Disfruto de salir cada tanto a la naturaleza, acampar o simplemente caminar por allí.
+Tambien me gusta tocar la guitarra, cantar y todas esas cosas de hippie de los 80' (excepto morir de sobredosis o unirme a Rajneeshpuram).
